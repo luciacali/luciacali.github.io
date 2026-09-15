@@ -1,2 +1,2 @@
-# luciacali.githib.io
+# luciacali.github.io
 Personal Scientific Writing &amp; Portfolio
