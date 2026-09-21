@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "(Don't) Destroy all Humans? Biosecurity, Generative AI, and the Democratization of Biology"
+permalink: /writing/dont-destroy-all-humans/
 ---
 
 # (Don't) Destroy all Humans? Biosecurity, Generative AI, and the Democratization of Biology 
