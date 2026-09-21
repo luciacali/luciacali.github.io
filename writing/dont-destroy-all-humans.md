@@ -1,3 +1,8 @@
+---
+layout: default
+title: "(Don't) Destroy All Humans?"
+---
+
 # (Don't) Destroy all Humans? Biosecurity, Generative AI, and the Democratization of Biology 
 
 *September 21, 2026*
