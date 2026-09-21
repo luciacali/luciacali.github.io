@@ -55,12 +55,12 @@ https://doi.org/10.20944/preprints202503.1761.v1
 
 **Greely, Henry T.** “CRISPR'd Babies: Human Germline Genome Editing in the 'He Jiankui Affair.'” Journal of Law and the Biosciences 6, no. 1 (2019): 111–183. DOI: https://doi.org/10.1093/jlb/lsz010
 
-**National Human Genome Research Institute.** “History and Timeline of Events.” https://www.genome.gov/about-nhgri/Brief-History-Timeline
+**National Human Genome Research Institute.** “History and Timeline of Events.” (https://www.genome.gov/about-nhgri/Brief-History-Timeline)
 
-**International Gene Synthesis Consortium.** “Harmonized Screening Protocol 3.0.” https://genesynthesisconsortium.org/wp-content/uploads/IGSC-Harmonized-Screening-Protocol-v3.0-1.pdf
+**International Gene Synthesis Consortium.** “Harmonized Screening Protocol 3.0.” (https://genesynthesisconsortium.org/wp-content/uploads/IGSC-Harmonized-Screening-Protocol-v3.0-1.pdf)
 
-**Jinek, Martin, et al.** “A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity.” Science 337, no. 6096 (2012): 816–821. DOI: https://doi.org/10.1126/science.1225829
+**Jinek, Martin, et al.** “A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity.” Science 337, no. 6096 (2012): 816–821. DOI: (https://doi.org/10.1126/science.1225829)
 
-**U.S. Department of Energy.** “Manhattan Project Historical Resources.” https://www.energy.gov/lm/manhattan-project-historical-resources
+**U.S. Department of Energy.** “Manhattan Project Historical Resources.” (https://www.energy.gov/lm/manhattan-project-historical-resources)
 
-**Preston, Richard.** The Demon in the Freezer. Random House, 2002. https://www.penguinrandomhouse.com/books/133841/the-demon-in-the-freezer-by-richard-preston/
+**Preston, Richard.** The Demon in the Freezer. Random House, 2002. (https://www.penguinrandomhouse.com/books/133841/the-demon-in-the-freezer-by-richard-preston/)
