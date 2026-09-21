@@ -43,7 +43,7 @@ https://doi.org/10.20944/preprints202503.1761.v1
 
 &emsp;Perhaps the most compelling message from Wang et al. is the call for checks and balances in biotech that are tailored for AI-driven discovery and development. For better or worse, the AI genie is out of the bottle. The utmost important thing for researchers and law makers to focus on by the end of this decade is to decide where to implement security guardrails. We need standard operating procedures on how to regulate the explosion of AI-driven biological research occurring within the labs across the country and world; but what would that look like? Is it by releasing constrained, jail-break proof AI models? Is it by administering routine auditing of laboratories? Perhaps we should require background checks and security clearances for scientists who lead synthetic biology research? 
 
-&emsp;Whatever it is, we have hundreds of years of media warning us against the dangers of unchecked artificial intelligence. How then, can we embrace Frankenstein's creation in a constructive manner, and how do we prevent it from becoming "the Monster" of our time?
+&emsp;Whatever it is, we have hundreds of years of media warning us against the dangers of unchecked artificial intelligence. How then, can we embrace this Frankensteinian creation in a constructive manner, and how do we prevent it from becoming "the Monster" of our time?
 
 ## Further Reading
 
