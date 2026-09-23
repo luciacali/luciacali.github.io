@@ -31,7 +31,7 @@ main {
     padding: 2rem;
 }
 
-.research-poster {
+research-poster {
     display: block;
     width: 70%;
     max-width: 800px;
@@ -56,11 +56,11 @@ hr {
     margin: 3rem 0;
 }
 
-.blog-post h3 {
+blog-post {
     margin-bottom: 0.25rem;
 }
 
-.post-date {
+post-date {
     margin-top: 0;
     margin-bottom: 2rem;
 }
