@@ -31,7 +31,7 @@ main {
     padding: 2rem;
 }
 
-research-poster {
+.research-poster {
     display: block;
     width: 70%;
     max-width: 800px;
