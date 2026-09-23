@@ -30,3 +30,11 @@ main {
     margin: auto;
     padding: 2rem;
 }
+
+.research-poster {
+    display: block;
+    width: 70%;
+    max-width: 800px;
+    height: auto;
+    margin: 2rem auto;
+}
