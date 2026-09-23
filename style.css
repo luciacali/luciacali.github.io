@@ -49,3 +49,9 @@ p {
     line-height: 1.6;
     margin-bottom: 1.2rem;
 }
+
+hr {
+    border: none;
+    border-top: 1px solid #555;
+    margin: 3rem 0;
+}
