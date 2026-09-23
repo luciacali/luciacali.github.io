@@ -44,3 +44,8 @@ figcaption {
     margin-top: 0.5rem;
     font-style: italic;
 }
+
+p {
+    line-height: 1.6;
+    margin-bottom: 1.2rem;
+}
