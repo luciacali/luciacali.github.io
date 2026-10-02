@@ -17,7 +17,7 @@ Kim, Henry, Edward S. Wickstead, Xiaoting Zhou, Insup Choi, and Zhenyu Yue. “R
 *"My mind to me an empire is,*<br>
  *While grace affordeth health."*
 
-&mdash; Robert Southwell (1561-1595)
+<span class="epigraph-author">&mdash; Robert Southwell (1561-1595)</span>
 
 <br>
 
