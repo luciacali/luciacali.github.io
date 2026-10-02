@@ -10,7 +10,7 @@ permalink: /writing/autophagy/
 
 >**Based on:**
 Kim, Henry, Edward S. Wickstead, Xiaoting Zhou, Insup Choi, and Zhenyu Yue. “Roles of Autophagy in Brain Homeostasis and Disease.” Nature Neuroscience, ahead of print, August 24, 2026. 
-[DOI]([https://doi.org/10.20944/preprints202503.1761.v1])
+[DOI](https://doi.org/10.20944/preprints202503.1761.v1)
 
 <br>
 
