@@ -68,4 +68,10 @@ hr {
 .epigraph-author {
   display: block;
   margin-left: 2em;
+  font-size: 0.9em;
+  font-style: normal;
+}
+
+.epigraph {
+  margin: 3rem 0;
 }
