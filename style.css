@@ -66,6 +66,6 @@ hr {
 }
 
 .epigraph-author {
-  display: inline-block;
+  display: block;
   margin-left: 2em;
 }
