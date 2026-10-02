@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Autophagy Working"
-permalink: /writing/autophagy/
+title: "your-brain-eats-itself"
+permalink: /writing/your-brain-eats-itself/
 ---
 
 # Your Brain Eats Itself to Stay Alive: Why Autophagy Impairment is Particularly Devastating for the Neuron
