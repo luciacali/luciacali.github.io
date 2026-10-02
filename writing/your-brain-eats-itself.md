@@ -4,7 +4,7 @@ title: "your-brain-eats-itself"
 permalink: /writing/your-brain-eats-itself/
 ---
 
-# Your Brain Eats Itself to Stay Alive: Why Autophagy Impairment is Particularly Devastating for the Neuron
+# Your Brain Eats Itself to Stay Alive: Why Autophagy Impairment is Particularly Devastating to the Neuron
 
 *October 2026*
 
