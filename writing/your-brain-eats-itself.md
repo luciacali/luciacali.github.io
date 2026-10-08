@@ -17,7 +17,7 @@ Kim, H., Wickstead, E.S., Zhou, X. et al. Roles of autophagy in brain homeostasi
 *"My mind to me an empire is,*<br>
  *While grace affordeth health."*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Robert Southwell (1561-1595)</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash; Robert Southwell (1561-1595)
 
 <br>
 
