@@ -66,16 +66,16 @@ As our ability to observe, manipulate, and computationally analyze living neuron
 ## Further Reading
 
 1. **Cai, Q., & Ganesan, D. (2022).** Regulation of neuronal autophagy and the implications in neurodegenerative diseases. *Neurobiology of Disease, 162*, 105582.  
-   https://doi.org/10.1016/j.nbd.2021.105582
+   (https://doi.org/10.1016/j.nbd.2021.105582)
 
 2. **Karpova, A., et al. (2025).** Neuronal autophagy in the control of synapse function. *Neuron, 113*(7), 974–990.  
-   https://doi.org/10.1016/j.neuron.2025.01.019
+   (https://doi.org/10.1016/j.neuron.2025.01.019)
 
 3. **Nixon, R. A., & Rubinsztein, D. C. (2024).** Mechanisms of autophagy–lysosome dysfunction in neurodegenerative diseases. *Nature Reviews Molecular Cell Biology, 25*, 926–946.  
-   https://doi.org/10.1038/s41580-024-00757-5
+   (https://doi.org/10.1038/s41580-024-00757-5)
 
 4. **Menzies, F. M., et al. (2017).** Autophagy and neurodegeneration: Pathogenic mechanisms and therapeutic opportunities. *Neuron, 93*(5), 1015–1034.  
-   https://doi.org/10.1016/j.neuron.2017.01.022
+   (https://doi.org/10.1016/j.neuron.2017.01.022)
 
 5. **Fenno, L., Yizhar, O., & Deisseroth, K. (2011).** The development and application of optogenetics. *Annual Review of Neuroscience, 34*, 389–412.  
-   https://doi.org/10.1146/annurev-neuro-061010-113817
+   (https://doi.org/10.1146/annurev-neuro-061010-113817)
