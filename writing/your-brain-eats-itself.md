@@ -49,6 +49,18 @@ Neurons face a remarkable similar problem
 
 ## The Bigger Question
 
+For much of the history of neuroscience, one of the greatest obstacles has been, until recently, out of reach: we cannot observe a living neuron. Neurological diseases have therefore remained difficult to understand because of the immense challenge of observing and manipulating the cells in which they occur. Promisingly, this is beginning to change. Advances in microscopy are allowing us to observe structures beyond the conventional limits of light microscopy, while techniques such as optogenetics allow researchers to reversibly manipulate the activity of specific neurons with remarkable temporal precision. As our ability to observe and interrogate living cells improves, we can begin asking more fundamental questions about disease.
+
+For example, how much neurological disease results from failures in the systems that maintain neurons, rather than failures in the neuronal compartments themselves? A neuron may remain alive while gradually accumulating damaged proteins, dysfunctional organelles, or defects in intercellular trafficking. The consequences of these failures may appear as altered development or synaptic function long before the neuron actually dies. Understanding this progression requires us to observe biology across vastly different scales. A molecule exists within an organelle, within a cell, within a neural circuit, within and individual interacting with their environment. Each layer adds another dimension of information, making it near impossible to understand the system as a whole!
+
+This is where computational biology and artificial intelligence may become increasingly important. Modern biological experiments can generate more information that a village of scientists could ever interpret on their own, but collecting enormous data sets is not understanding them. The challenge is to determine which changes are causal which are consequential, and which occur normally alongside disease. Computational approaches may allow researchers to identify relationships across biological scales that would otherwise remain obscured.
+
+But even if we could formulate a perfect narrative from perfect data from perfect observation, we still haven't achieved anything besides knowing something new. The more important question is whether we can eventually move from understanding the systems that maintain neurons, to predicting when those systems will fail, and ultimately to intervening before irreversible damage occurs. Technologies such as CRISPR are already giving researchers increasingly precise ways to manipulate biological systems, while advances in microscopy and computation are expanding our ability to see and interpret them. We are beginning to acquire tools not only to ask why neurons fail, but perhaps eventually, how to prevent them from failing in the first place.
+
 ## Conclusion
+
+Neurons are extraordinarily complex cells, but their survival ultimately depends on mundane processes. Proteins must be folded, organelles repaired or removed, materials transported across enormous distances, and ultimately, the trash must be taken out. Autophagy is only one part of the beautiful complexity of the cell, but it illustrates how much work is required just to keep a neuron functioning.
+
+As our ability to observe, manipulate, and computationally analyze living neurons continues to improve, we may eventually move from understanding how neurons fail, to predicting and preventing when they will.
 
 ## Further Reading
