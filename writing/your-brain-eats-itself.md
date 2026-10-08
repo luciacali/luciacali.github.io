@@ -6,7 +6,7 @@ permalink: /writing/your-brain-eats-itself/
 
 # Your Brain Eats Itself to Stay Alive: Why Autophagy Impairment is Particularly Devastating for the Neuron
 
-*October 2026*
+*October 8, 2026*
 
 >**Based on:**
 Kim, Henry, Edward S. Wickstead, Xiaoting Zhou, Insup Choi, and Zhenyu Yue. “Roles of Autophagy in Brain Homeostasis and Disease.” Nature Neuroscience, ahead of print, August 24, 2026. 
