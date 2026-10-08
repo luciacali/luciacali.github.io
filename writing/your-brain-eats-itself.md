@@ -9,7 +9,7 @@ permalink: /writing/your-brain-eats-itself/
 *October 8, 2026*
 
 >**Based on:**
-Kim, Henry, Edward S. Wickstead, Xiaoting Zhou, Insup Choi, and Zhenyu Yue. “Roles of Autophagy in Brain Homeostasis and Disease.” Nature Neuroscience, ahead of print, August 24, 2026. 
+Kim, H., Wickstead, E.S., Zhou, X. et al. Roles of autophagy in brain homeostasis and disease. Nat Neurosci (2026). 
 [DOI](https://doi.org/10.1038/s41593-026-02426-6)
 
 <br>
